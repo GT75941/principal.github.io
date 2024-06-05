@@ -1,0 +1,30 @@
+File: C:\xampp\htdocs\syspersona\BD\ConexionBD.php
+Line: 36
+Code: 1305
+Message: PROCEDURE bdpersona1.usp_listar does not exist
+Query: call usp_listar();
+
+File: C:\xampp\htdocs\syspersona\BD\ConexionBD.php
+Line: 36
+Code: 1305
+Message: PROCEDURE bdpersona1.usp_listar does not exist
+Query: call usp_listar();
+
+File: C:\xampp\htdocs\syspersona\BD\ConexionBD.php
+Line: 36
+Code: 1305
+Message: PROCEDURE bdpersona1.usp_listar does not exist
+Query: call usp_listar();
+
+File: C:\xampp\htdocs\syspersona\BD\ConexionBD.php
+Line: 36
+Code: 1062
+Message: Duplicate entry 'P003' for key 'PRIMARY'
+Query: insert into tpersona values('P003','ALEJANDRA ZAMALLOA QUISPE','ale@gmail.com');
+
+File: C:\xampp\htdocs\syspersona\BD\ConexionBD.php
+Line: 36
+Code: 1062
+Message: Duplicate entry 'P004' for key 'PRIMARY'
+Query: insert into tpersona values('P004','ALEJANDRA ZAMALLOA QUISPE','ale@gmail.com');
+
